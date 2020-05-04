@@ -1,0 +1,554 @@
+#2020/4/28 23:50:11+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[0]:链路协议IP在接口Tunnel10上的状态变为UP。
+#2020/4/28 23:47:55+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[1]:链路协议IP在接口Tunnel10上的状态变为DOWN。
+#2020/4/28 23:46:24+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[2]:链路协议IP在接口Tunnel10上的状态变为UP。
+#2020/4/28 23:45:15+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/SAVECFG(l)[3]:用户zhaogao收到保存配置到对端请求后选择YES.
+#2020/4/28 23:45:12+08:00 SH-YX501-OFFICE-FW1 %%01CFM/4/SAVE(s)[4]:当决定是否把配置保存到设备时，用户选择了Y。
+#2020/4/28 23:44:07+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[5]:链路协议IP在接口Tunnel10上的状态变为DOWN。
+#2020/4/28 23:38:19+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[6]:链路协议IP在接口Tunnel10上的状态变为UP。
+#2020/4/28 23:37:41+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[7]:SSH登录失败。（地址是5.0.1.3，Vpn实例名default，用户名称是zhaogao，次数是1，失败原因是User password authentication failed）
+#2020/4/28 23:36:59+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[8]:SSH登录失败。（地址是5.0.1.3，Vpn实例名 ，用户名称是zhaogao，次数是2，失败原因是User password authentication failed）
+#2020/4/28 23:36:51+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[9]:SSH登录失败。（地址是5.0.1.3，Vpn实例名 ，用户名称是zhaogao，次数是1，失败原因是User password authentication failed）
+#2020/4/28 23:30:30+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[10]:链路协议IP在接口Tunnel10上的状态变为DOWN。
+#2020/4/28 23:28:57+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[11]:链路协议IP在接口Tunnel10上的状态变为UP。
+#2020/4/28 23:28:27+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[12]:链路协议IP在接口Tunnel10上的状态变为DOWN。
+#2020/4/28 23:26:12+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[13]:链路协议IP在接口Tunnel10上的状态变为UP。
+#2020/4/28 23:25:11+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[14]:链路协议IP在接口Tunnel10上的状态变为DOWN。
+#2020/4/28 23:23:40+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[15]:链路协议IP在接口Tunnel10上的状态变为UP。
+#2020/4/28 23:15:53+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[16]:链路协议IP在接口Tunnel10上的状态变为DOWN。
+#2020/4/28 23:14:07+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[17]:链路协议IP在接口Tunnel10上的状态变为UP。
+#2020/4/28 23:13:52+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[18]:链路协议IP在接口Tunnel10上的状态变为DOWN。
+#2020/4/28 23:12:07+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[19]:链路协议IP在接口Tunnel10上的状态变为UP。
+#2020/4/28 23:10:37+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[20]:链路协议IP在接口Tunnel10上的状态变为DOWN。
+#2020/4/28 23:03:52+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[21]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 23:03:52+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[22]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 22:04:52+08:00 SH-YX501-OFFICE-FW1 %%01UPDATE/3/FAILURE(l)[23]:特征库升级失败。（日志序号=54，用户名=SystemTimer，IP地址=**，模块名=FILE-REPUTATION，升级方式=apply，升级时长（秒）=33，失败原因=“The update service is not activated”，处理建议=“Purchase the upgrade service”）
+#2020/4/28 21:46:32+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[24]:主备防火墙的配置不一致(nat-policy).
+#2020/4/28 21:46:30+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[25]:主备防火墙的配置不一致(security-policy).
+#2020/4/28 21:44:08+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[26]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/28 21:44:08+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[27]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/28 21:44:08+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[28]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/28 21:44:08+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[29]:SSH登录失败。（地址是172.30.8.104，Vpn实例名default，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/28 21:38:32+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[30]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 21:38:32+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[31]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 20:13:12+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[32]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 20:13:12+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[33]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 18:47:51+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[34]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 18:47:51+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[35]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 17:22:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[36]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 17:22:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[37]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 15:57:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[38]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 15:57:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[39]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 15:46:16+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[40]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 15:46:16+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[41]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 15:46:01+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[42]:DNS服务器状态变化为DOWN。（服务器IP=202.96.199.133，变化前状态=Up，变化后状态=Down）。
+#2020/4/28 15:46:01+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[43]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.199.133,目的端口=53）。
+#2020/4/28 15:45:56+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[44]:DNS服务器状态变化为DOWN。（服务器IP=202.96.209.6，变化前状态=Up，变化后状态=Down）。
+#2020/4/28 15:45:56+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[45]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.209.6,目的端口=53）。
+#2020/4/28 15:04:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[46]:DNS服务器状态变化为DOWN。（服务器IP=202.96.199.133，变化前状态=Up，变化后状态=Down）。
+#2020/4/28 15:04:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[47]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.199.133,目的端口=53）。
+#2020/4/28 15:04:01+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[48]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=0，服务器IP=202.96.209.6，变化前状态=Up，变化后状态=Down）
+#2020/4/28 15:04:01+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[49]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.209.6,目的端口=53）。
+#2020/4/28 14:58:21+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[0]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 14:58:21+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[1]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 14:58:21+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[2]:DNS服务器状态变化为DOWN。（服务器IP=202.96.199.133，变化前状态=Up，变化后状态=Down）。
+#2020/4/28 14:58:21+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[3]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.199.133,目的端口=53）。
+#2020/4/28 14:58:16+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[4]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=2，服务器IP=202.96.199.133，变化前状态=Up，变化后状态=Down）
+#2020/4/28 14:58:16+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[5]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.199.133,目的端口=53）。
+#2020/4/28 14:58:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[6]:DNS服务器状态变化为DOWN。（服务器IP=202.96.209.6，变化前状态=Up，变化后状态=Down）。
+#2020/4/28 14:58:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[7]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.209.6,目的端口=53）。
+#2020/4/28 14:31:51+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[8]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 14:31:51+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[9]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 13:06:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[10]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 13:06:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[11]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 12:07:41+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[12]:DNS服务器状态变化为DOWN。（服务器IP=202.96.199.133，变化前状态=Up，变化后状态=Down）。
+#2020/4/28 12:07:41+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[13]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.199.133,目的端口=53）。
+#2020/4/28 11:41:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[14]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 11:41:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[15]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 10:44:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[16]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=2，服务器IP=202.96.199.133，变化前状态=Up，变化后状态=Down）
+#2020/4/28 10:44:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[17]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.199.133,目的端口=53）。
+#2020/4/28 10:44:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[18]:DNS服务器状态变化为DOWN。（服务器IP=202.96.209.6，变化前状态=Up，变化后状态=Down）。
+#2020/4/28 10:44:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[19]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.209.6,目的端口=53）。
+#2020/4/28 10:15:51+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[20]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 10:15:51+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[21]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 08:50:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[22]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 08:50:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[23]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 07:25:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[24]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 07:25:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[25]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 05:59:51+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[26]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 05:59:51+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[27]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 04:34:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[28]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 04:34:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[29]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 03:09:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[30]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 03:09:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[31]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 01:43:51+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[32]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 01:43:51+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[33]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 00:18:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[34]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/28 00:18:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[35]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/28 00:05:59+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[36]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/28 00:05:59+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[37]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/28 00:05:59+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[38]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/28 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[39]:SSH登录失败。（地址是172.30.8.104，Vpn实例名 ，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/27 22:53:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[40]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 22:53:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[41]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 22:23:53+08:00 SH-YX501-OFFICE-FW1 %%01UPDATE/3/FAILURE(l)[42]:特征库升级失败。（日志序号=48，用户名=SystemTimer，IP地址=**，模块名=FILE-REPUTATION，升级方式=apply，升级时长（秒）=206，失败原因=“The update service is not activated”，处理建议=“Purchase the upgrade service”）
+#2020/4/27 21:46:32+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[43]:主备防火墙的配置不一致(nat-policy).
+#2020/4/27 21:46:30+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[44]:主备防火墙的配置不一致(security-policy).
+#2020/4/27 21:27:51+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[45]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 21:27:51+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[46]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 20:02:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[47]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 20:02:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[48]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 18:37:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[49]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 18:37:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[0]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 17:32:06+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[1]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.0.37，邻居区域ID=0，邻居接口=Tunnel50，直接原因=Neighbor Down Due to Kill Neighbor，初始原因=Physical Interface State Change，状态改变时间=2020-04-27 17:32:06+08:00)
+#2020/4/27 17:32:06+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[2]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.37，邻居事件=KillNbr，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/27 17:32:06+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[3]:链路协议IP在接口Tunnel50上的状态变为DOWN。
+#2020/4/27 17:31:58+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[4]:链路协议IP在接口Tunnel30上的状态变为DOWN。
+#2020/4/27 17:31:36+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[5]:链路协议IP在接口Tunnel0上的状态变为DOWN。
+#2020/4/27 17:25:47+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[6]:链路协议IP在接口Tunnel1上的状态变为DOWN。
+#2020/4/27 17:11:51+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[7]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 17:11:51+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[8]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 15:46:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[9]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 15:46:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[10]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 15:22:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[11]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/27 15:22:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[12]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/27 15:22:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[13]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/27 15:22:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[14]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/27 15:22:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[15]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/27 15:22:01+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[16]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.0.37，邻居区域ID=0，邻居接口=Tunnel50，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-27 15:22:01+08:00)
+#2020/4/27 15:22:01+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[17]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.37，邻居事件=InactivityTimer，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/27 15:21:16+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[18]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/27 15:21:16+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[19]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/27 15:21:11+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[20]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/27 15:21:11+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[21]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/27 15:21:11+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[22]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/27 15:21:00+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[23]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.0.37，邻居区域ID=0，邻居接口=Tunnel50，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-27 15:21:00+08:00)
+#2020/4/27 15:21:00+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[24]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.37，邻居事件=InactivityTimer，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/27 15:20:26+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[25]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/27 15:20:26+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[26]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/27 15:20:26+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[27]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/27 15:20:21+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[28]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/27 15:20:21+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[29]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/27 15:20:11+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[30]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.0.37，邻居区域ID=0，邻居接口=Tunnel50，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-27 15:20:11+08:00)
+#2020/4/27 15:20:11+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[31]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.37，邻居事件=InactivityTimer，邻居先前状态=Exchange，邻居当前状态=Down)
+#2020/4/27 15:19:44+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[32]:SSH登录失败。（地址是192.168.25.25，Vpn实例名 ，用户名称是zhaogao，次数是2，失败原因是User password authentication failed）
+#2020/4/27 15:19:36+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[33]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/27 15:19:33+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[34]:SSH登录失败。（地址是192.168.25.25，Vpn实例名 ，用户名称是zhaogao，次数是1，失败原因是User password authentication failed）
+#2020/4/27 15:19:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[35]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/27 15:19:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[36]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/27 15:19:10+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[37]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.0.37，邻居区域ID=0，邻居接口=Tunnel50，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-27 15:19:10+08:00)
+#2020/4/27 15:19:10+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[38]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.37，邻居事件=InactivityTimer，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/27 15:18:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[39]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/27 15:18:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[40]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/27 15:18:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[41]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/27 15:18:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[42]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/27 15:18:31+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[43]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/27 15:18:18+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[44]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.0.37，邻居区域ID=0，邻居接口=Tunnel50，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-27 15:18:18+08:00)
+#2020/4/27 15:18:18+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[45]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.37，邻居事件=InactivityTimer，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/27 15:17:41+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[46]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/27 15:17:41+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[47]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/27 15:17:41+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[48]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/27 15:17:41+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[49]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/27 15:17:41+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[0]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/27 15:17:21+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[1]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.0.37，邻居区域ID=0，邻居接口=Tunnel50，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-27 15:17:21+08:00)
+#2020/4/27 15:17:21+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[2]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.37，邻居事件=InactivityTimer，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/27 14:21:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[3]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 14:21:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[4]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 12:55:51+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[5]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 12:55:51+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[6]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 11:30:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[7]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 11:30:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[8]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 10:05:11+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[9]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 10:05:11+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[10]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 08:39:51+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[11]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 08:39:51+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[12]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 07:14:31+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[13]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 07:14:31+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[14]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 05:49:10+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[15]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 05:49:10+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[16]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 04:23:50+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[17]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 04:23:50+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[18]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 02:58:30+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[19]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 02:58:30+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[20]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 01:33:10+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[21]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 01:33:10+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[22]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 00:07:50+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[23]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/27 00:07:50+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[24]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/27 00:06:00+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[25]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/27 00:06:00+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[26]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/27 00:06:00+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[27]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/27 00:06:00+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[28]:SSH登录失败。（地址是172.30.8.104，Vpn实例名 ，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/26 22:42:30+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[29]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 22:42:30+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[30]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 22:04:47+08:00 SH-YX501-OFFICE-FW1 %%01UPDATE/3/FAILURE(l)[31]:特征库升级失败。（日志序号=42，用户名=SystemTimer，IP地址=**，模块名=FILE-REPUTATION，升级方式=apply，升级时长（秒）=33，失败原因=“The update service is not activated”，处理建议=“Purchase the upgrade service”）
+#2020/4/26 21:46:32+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[32]:主备防火墙的配置不一致(nat-policy).
+#2020/4/26 21:46:30+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[33]:主备防火墙的配置不一致(security-policy).
+#2020/4/26 21:17:10+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[34]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 21:17:10+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[35]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 19:51:50+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[36]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 19:51:50+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[37]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 18:26:30+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[38]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 18:26:30+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[39]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 17:01:10+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[40]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 17:01:10+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[41]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 15:35:50+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[42]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 15:35:50+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[43]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 14:10:30+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[44]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 14:10:30+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[45]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 12:45:10+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[46]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 12:45:10+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[47]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 11:19:50+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[48]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 11:19:50+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[49]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 09:54:30+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[0]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 09:54:30+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[1]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 08:29:10+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[2]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 08:29:10+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[3]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 07:03:50+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[4]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 07:03:50+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[5]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 05:38:30+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[6]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 05:38:30+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[7]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 04:13:10+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[8]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 04:13:10+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[9]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 02:47:50+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[10]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 02:47:50+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[11]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 01:22:30+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[12]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/26 01:22:30+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[13]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/26 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[14]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/26 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[15]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/26 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[16]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/26 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[17]:SSH登录失败。（地址是172.30.8.104，Vpn实例名 ，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/25 23:57:10+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[18]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 23:57:10+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[19]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 22:31:50+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[20]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 22:31:50+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[21]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 22:04:46+08:00 SH-YX501-OFFICE-FW1 %%01UPDATE/3/FAILURE(l)[22]:特征库升级失败。（日志序号=36，用户名=SystemTimer，IP地址=**，模块名=FILE-REPUTATION，升级方式=apply，升级时长（秒）=34，失败原因=“The update service is not activated”，处理建议=“Purchase the upgrade service”）
+#2020/4/25 21:46:32+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[23]:主备防火墙的配置不一致(nat-policy).
+#2020/4/25 21:46:30+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[24]:主备防火墙的配置不一致(security-policy).
+#2020/4/25 21:20:55+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[25]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.4.4，邻居区域ID=0，邻居接口=Tunnel20，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-25 21:20:55+08:00)
+#2020/4/25 21:20:55+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[26]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.6，邻居事件=InactivityTimer，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/25 21:20:49+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[27]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.4.4，邻居区域ID=0，邻居接口=Tunnel10，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-25 21:20:49+08:00)
+#2020/4/25 21:20:49+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[28]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.2，邻居事件=InactivityTimer，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/25 21:06:30+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[29]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 21:06:30+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[30]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 19:41:10+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[31]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 19:41:10+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[32]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 18:15:49+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[33]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 18:15:49+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[34]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 16:50:29+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[35]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 16:50:29+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[36]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 15:25:09+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[37]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 15:25:09+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[38]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 13:59:49+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[39]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 13:59:49+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[40]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 12:34:29+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[41]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 12:34:29+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[42]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 11:09:09+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[43]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 11:09:09+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[44]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 09:43:49+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[45]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 09:43:49+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[46]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 08:18:29+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[47]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 08:18:29+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[48]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 06:53:09+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[49]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 06:53:09+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[0]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 05:27:49+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[1]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 05:27:49+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[2]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 04:02:29+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[3]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 04:02:29+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[4]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 02:37:09+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[5]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 02:37:09+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[6]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 01:11:49+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[7]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/25 01:11:49+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[8]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/25 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[9]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/25 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[10]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/25 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[11]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/25 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[12]:SSH登录失败。（地址是172.30.8.104，Vpn实例名 ，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/24 23:46:29+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[13]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 23:46:29+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[14]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 22:21:09+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[15]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 22:21:09+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[16]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 22:16:13+08:00 SH-YX501-OFFICE-FW1 %%01UPDATE/3/FAILURE(l)[17]:特征库升级失败。（日志序号=30，用户名=SystemTimer，IP地址=**，模块名=FILE-REPUTATION，升级方式=apply，升级时长（秒）=33，失败原因=“The update service is not activated”，处理建议=“Purchase the upgrade service”）
+#2020/4/24 21:46:32+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[18]:主备防火墙的配置不一致(nat-policy).
+#2020/4/24 21:46:30+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[19]:主备防火墙的配置不一致(security-policy).
+#2020/4/24 20:55:49+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[20]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 20:55:49+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[21]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 19:30:29+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[22]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 19:30:29+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[23]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 18:05:09+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[24]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 18:05:09+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[25]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 16:39:49+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[26]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 16:39:49+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[27]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 15:14:29+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[28]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 15:14:29+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[29]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 13:49:09+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[30]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 13:49:09+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[31]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 12:23:49+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[32]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 12:23:49+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[33]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 10:58:29+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[34]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 10:58:29+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[35]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 09:33:09+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[36]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 09:33:09+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[37]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 08:07:49+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[38]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 08:07:49+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[39]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 06:42:28+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[40]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 06:42:28+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[41]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 05:17:08+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[42]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 05:17:08+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[43]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 03:51:48+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[44]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 03:51:48+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[45]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 02:26:28+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[46]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 02:26:28+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[47]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 01:01:08+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[48]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/24 01:01:08+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[49]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/24 00:05:59+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[0]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/24 00:05:59+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[1]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/24 00:05:59+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[2]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/24 00:05:59+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[3]:SSH登录失败。（地址是172.30.8.104，Vpn实例名 ，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/23 23:35:48+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[4]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 23:35:48+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[5]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 22:10:28+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[6]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 22:10:28+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[7]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 22:04:41+08:00 SH-YX501-OFFICE-FW1 %%01UPDATE/3/FAILURE(l)[8]:特征库升级失败。（日志序号=24，用户名=SystemTimer，IP地址=**，模块名=FILE-REPUTATION，升级方式=apply，升级时长（秒）=33，失败原因=“The update service is not activated”，处理建议=“Purchase the upgrade service”）
+#2020/4/23 21:46:32+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[9]:主备防火墙的配置不一致(nat-policy).
+#2020/4/23 21:46:30+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[10]:主备防火墙的配置不一致(security-policy).
+#2020/4/23 20:45:08+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[11]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 20:45:08+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[12]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 19:19:48+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[13]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 19:19:48+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[14]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 17:54:28+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[15]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 17:54:28+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[16]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 16:29:08+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[17]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 16:29:08+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[18]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 15:03:48+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[19]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 15:03:48+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[20]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 13:38:28+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[21]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 13:38:28+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[22]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 12:13:08+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[23]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 12:13:08+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[24]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 10:53:17+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[25]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/23 10:53:17+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[26]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/23 10:53:17+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[27]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/23 10:53:06+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[28]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/23 10:53:06+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[29]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/23 10:53:03+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[30]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.0.37，邻居区域ID=0，邻居接口=Tunnel50，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-23 10:53:03+08:00)
+#2020/4/23 10:53:03+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[31]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=10.8.0.37，邻居事件=InactivityTimer，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/23 10:47:48+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[32]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 10:47:48+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[33]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 09:22:28+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[34]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 09:22:28+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[35]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 07:57:08+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[36]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 07:57:08+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[37]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 06:31:48+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[38]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 06:31:48+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[39]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 05:06:28+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[40]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 05:06:28+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[41]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 03:41:08+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[42]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 03:41:08+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[43]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 02:15:48+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[44]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 02:15:48+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[45]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 00:50:28+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[46]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/23 00:50:28+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[47]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/23 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[48]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/23 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[49]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/23 00:05:58+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[0]:SSH登录失败。（地址是172.30.8.104，Vpn实例名 ，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/22 23:25:08+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[1]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 23:25:08+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[2]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 22:11:25+08:00 SH-YX501-OFFICE-FW1 %%01UPDATE/3/FAILURE(l)[3]:特征库升级失败。（日志序号=18，用户名=SystemTimer，IP地址=**，模块名=FILE-REPUTATION，升级方式=apply，升级时长（秒）=38，失败原因=“The update service is not activated”，处理建议=“Purchase the upgrade service”）
+#2020/4/22 21:59:48+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[4]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 21:59:48+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[5]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 21:46:32+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[6]:主备防火墙的配置不一致(nat-policy).
+#2020/4/22 21:46:30+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/COCHK(l)[7]:主备防火墙的配置不一致(security-policy).
+#2020/4/22 20:34:28+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[8]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 20:34:28+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[9]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 19:09:07+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[10]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 19:09:07+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[11]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 17:43:47+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[12]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 17:43:47+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[13]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 17:19:37+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[14]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 17:19:37+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[15]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 17:18:22+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[16]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 17:18:22+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[17]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 17:07:22+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[18]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 17:07:22+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[19]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 16:18:27+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[20]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 16:18:27+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[21]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 14:53:07+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[22]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 14:53:07+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[23]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 13:27:47+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[24]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 13:27:47+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[25]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 12:02:27+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[26]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 12:02:27+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[27]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 10:37:07+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[28]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 10:37:07+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[29]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 09:11:47+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[30]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 09:11:47+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[31]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 07:46:27+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[32]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 07:46:27+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[33]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 06:21:07+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[34]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 06:21:07+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[35]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 04:55:47+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[36]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 04:55:47+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[37]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 03:30:27+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[38]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 03:30:27+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[39]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 02:05:07+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[40]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 02:05:07+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[41]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 00:39:47+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[42]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/22 00:39:47+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[43]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/22 00:05:57+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[44]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/22 00:05:57+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[45]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/22 00:05:57+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[46]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝ ，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/22 00:05:57+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[47]:SSH登录失败。（地址是172.30.8.104，Vpn实例名 ，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/21 23:14:27+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[48]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Up，变化后状态=Down）
+#2020/4/21 23:14:27+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[49]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/21 22:09:26+08:00 SH-YX501-OFFICE-FW1 %%01UPDATE/3/FAILURE(l)[0]:特征库升级失败。（日志序号=12，用户名=SystemTimer，IP地址=**，模块名=FILE-REPUTATION，升级方式=apply，升级时长（秒）=33，失败原因=“The update service is not activated”，处理建议=“Purchase the upgrade service”）
+#2020/4/21 21:55:31+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[1]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/21 21:55:31+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[2]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/21 21:55:31+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[3]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/21 21:55:31+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[4]:SSH登录失败。（地址是172.30.8.104，Vpn实例名default，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/21 21:55:19+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[5]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/21 21:55:19+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[6]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/21 21:55:19+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[7]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/21 21:55:18+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[8]:SSH登录失败。（地址是172.30.8.104，Vpn实例名default，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/21 21:55:08+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[9]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/21 21:55:07+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[10]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/21 21:55:07+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[11]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/21 21:55:07+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[12]:SSH登录失败。（地址是172.30.8.104，Vpn实例名default，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/21 21:53:50+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[13]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/21 21:53:50+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[14]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/21 21:53:50+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[15]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/21 21:53:49+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[16]:SSH登录失败。（地址是172.30.8.104，Vpn实例名default，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/21 21:53:38+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[17]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/21 21:53:38+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[18]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/21 21:53:38+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[19]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/21 21:53:37+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[20]:SSH登录失败。（地址是172.30.8.104，Vpn实例名default，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/21 21:53:25+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[21]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open file: hda1:/vrpcfg.zip before modifying its properties ，执行结果=Success）
+
+#2020/4/21 21:53:25+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[22]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Open File: hda1:/vrpcfg.zip，执行结果=Success）
+
+#2020/4/21 21:53:25+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[23]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝Show Path: hda1:，执行结果=Success）
+
+#2020/4/21 21:53:25+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SFTP_REQ_RECORD(s)[24]:SFTP服务器收到了客户端的操作请求。（用户名＝backup，IP地址＝172.30.8.104，VPN实例名＝default，请求＝SFTP server initialization，执行结果=Success）
+
+#2020/4/21 21:53:25+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[25]:SSH登录失败。（地址是172.30.8.104，Vpn实例名default，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/21 21:50:52+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[26]:SSH登录失败。（地址是172.30.8.104，Vpn实例名default，用户名称是backup，次数是1，失败原因是User password authentication failed）
+#2020/4/21 21:50:49+08:00 SH-YX501-OFFICE-FW1 %%01SSH/4/SSH_FAIL(s)[27]:SSH登录失败。（地址是172.30.8.104，Vpn实例名default，用户名称是backup，次数是1，失败原因是User public key authentication failed）
+#2020/4/21 21:50:17+08:00 SH-YX501-OFFICE-FW1 %%01NTP/4/STRATUM_CHANGE(l)[28]:时钟更新后，系统层数从16变为4。（源地址=192.168.9.254）
+#2020/4/21 21:50:17+08:00 SH-YX501-OFFICE-FW1 %%01NTP/4/LEAP_CHANGE(l)[29]:时钟更新后，系统跳秒从3变为0。
+#2020/4/21 21:50:14+08:00 SH-YX501-OFFICE-FW1 %%01NTP/4/PEER_SELE(l)[30]:系统选择的对等体为192.168.9.254。
+#2020/4/21 21:49:46+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[31]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/21 21:49:46+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[32]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/21 21:49:46+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[33]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/21 21:49:46+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[34]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/21 21:49:46+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[35]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/21 21:49:45+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[36]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/21 21:49:45+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[37]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/21 21:49:45+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[38]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/21 21:49:41+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[39]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/21 21:49:41+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[40]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.37，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[41]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.2，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[42]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.2，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[43]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.2，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[44]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.2，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[45]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.2，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[46]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.6，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[47]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.6，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[48]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.6，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[49]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.6，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/21 21:49:38+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[0]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=10.8.0.6，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/21 21:49:37+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/CORE_STATE(l)[1]:HRP 内部组状态变化, 切换前的状态为abnormal(standby), 切换后的状态为normal, 本端优先级为45000, 对端优先级为45000.
+#2020/4/21 21:49:13+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_DOWN_REASON(l)[2]:邻居状态离开full或邻居状态Down。(进程号=100，邻居路由器标识=10.8.4.1，邻居区域ID=0，邻居接口=Vlanif23，直接原因=Neighbor Down Due to Inactivity，初始原因=Hello Not Seen，状态改变时间=2020-04-21 21:49:13+08:00)
+#2020/4/21 21:49:13+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/3/NBR_CHG_DOWN(l)[3]:邻居事件，邻居状态改变为Down。(进程号=100，邻居地址=192.168.8.2，邻居事件=InactivityTimer，邻居先前状态=Full，邻居当前状态=Down)
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[4]:链路协议IP在接口Tunnel1上的状态变为UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[5]:链路协议IP在接口Tunnel20上的状态变为UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01RM/4/IPV4_DEFT_RT_CHG(l)[6]:IPV4 默认路由发生变化。（变化类型=Add，实例ID=0，协议=Static，出接口=Vlanif502，下一跳=118.242.26.253，邻居=0.0.0.0，优先级=10，标签=NULL，Metric值=0）
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[7]:链路协议IP在接口Tunnel0上的状态变为UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[8]:链路协议IP在接口Tunnel10上的状态变为UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[9]:链路协议IP在接口Tunnel30上的状态变为UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[10]:链路协议IP在接口Tunnel50上的状态变为UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01RM/4/IPV4_DEFT_RT_CHG(l)[11]:IPV4 默认路由发生变化。（变化类型=Add，实例ID=0，协议=Unr，出接口=Vlanif502，下一跳=118.242.26.253，邻居=0.0.0.0，优先级=70，标签=0，Metric值=0）
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01RM/4/IPV4_DEFT_RT_CHG(l)[12]:IPV4 默认路由发生变化。（变化类型=Add，实例ID=0，协议=Unr，出接口=Vlanif501，下一跳=118.242.19.73，邻居=0.0.0.0，优先级=70，标签=0，Metric值=0）
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_STATE(l)[13]:接口 Eth-Trunk30 状态变为 UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[14]:链路协议IP在接口Vlanif502上的状态变为UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_STATE(l)[15]:接口 Vlanif502 状态变为 UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[16]:链路协议IP在接口Vlanif501上的状态变为UP。
+#2020/4/21 21:48:38+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_STATE(l)[17]:接口 Vlanif501 状态变为 UP。
+#2020/4/21 21:48:37+08:00 SH-YX501-OFFICE-FW1 %%01PHY/4/STATUSUP(l)[18]:GigabitEthernet2/0/6:端口状态变为UP。
+#2020/4/21 21:48:36+08:00 SH-YX501-OFFICE-FW1 %%01PHY/4/STATUSUP(l)[19]:GigabitEthernet2/0/7:端口状态变为UP。
+#2020/4/21 21:48:35+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/CORE_STATE(l)[20]:HRP 内部组状态变化, 切换前的状态为abnormal(active), 切换后的状态为abnormal(standby), 本端优先级为44994, 对端优先级为44998.
+#2020/4/21 21:48:33+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_ENABLE(l)[21]:接口GigabitEthernet2/0/7可用。
+#2020/4/21 21:48:33+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_ENABLE(l)[22]:接口GigabitEthernet2/0/6可用。
+#2020/4/21 21:48:33+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_ENABLE(l)[23]:接口GigabitEthernet2/0/5可用。
+#2020/4/21 21:48:33+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_ENABLE(l)[24]:接口GigabitEthernet2/0/4可用。
+#2020/4/21 21:48:33+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_ENABLE(l)[25]:接口GigabitEthernet2/0/3可用。
+#2020/4/21 21:48:33+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_ENABLE(l)[26]:接口GigabitEthernet2/0/2可用。
+#2020/4/21 21:48:33+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_ENABLE(l)[27]:接口GigabitEthernet2/0/1可用。
+#2020/4/21 21:48:33+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_ENABLE(l)[28]:接口GigabitEthernet2/0/0可用。
+#2020/4/21 21:48:33+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/BOARD_ENABLE(l)[29]:2号板可用。
+#2020/4/21 21:48:32+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/CORE_STATE(l)[30]:HRP 内部组状态变化, 切换前的状态为normal, 切换后的状态为abnormal(active), 本端优先级为44998, 对端优先级为44996.
+#2020/4/21 21:47:58+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[31]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=LoadingDone，邻居先前状态=Loading，邻居当前状态=Full)
+#2020/4/21 21:47:58+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[32]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=ExchangeDone，邻居先前状态=Exchange，邻居当前状态=Loading)
+#2020/4/21 21:47:58+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[33]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=NegotiationDone，邻居先前状态=ExStart，邻居当前状态=Exchange)
+#2020/4/21 21:47:58+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[34]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=2WayReceived，邻居先前状态=Init，邻居当前状态=ExStart)
+#2020/4/21 21:47:58+08:00 SH-YX501-OFFICE-FW1 %%01OSPF/4/NBR_CHANGE_E(l)[35]:邻居改变事件，邻居状态改变。(进程号=100，邻居地址=192.168.8.2，邻居事件=HelloReceived，邻居先前状态=Down，邻居当前状态=Init)
+#2020/4/21 21:47:49+08:00 SH-YX501-OFFICE-FW1 %%01HRPI/4/CORE_STATE(l)[36]:HRP 内部组状态变化, 切换前的状态为abnormal(standby), 切换后的状态为normal, 本端优先级为44998, 对端优先级为44998.
+#2020/4/21 21:47:04+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/3/DOWN(l)[37]:健康检查ISP1状态变化为DOWN。（协议=icmp,目的IP=118.242.19.73,目的端口=0）。
+#2020/4/21 21:47:04+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[38]:探测状态变化为DOWN。（协议=icmp,目的IP=118.242.19.73,目的端口=0）。
+#2020/4/21 21:47:04+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/3/DOWN(l)[39]:健康检查ISP2状态变化为DOWN。（协议=icmp,目的IP=118.242.26.253,目的端口=0）。
+#2020/4/21 21:47:04+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[40]:探测状态变化为DOWN。（协议=icmp,目的IP=118.242.26.253,目的端口=0）。
+#2020/4/21 21:47:03+08:00 SH-YX501-OFFICE-FW1 %%01UM/4/RECOVERSUCCESS(l)[41]:数据库恢复成功. (插板号= 11, CPU 号=0)
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[42]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=1，服务器IP=114.114.114.114，变化前状态=Init，变化后状态=Down）
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[43]:探测状态变化为DOWN。（协议=dns,目的IP=114.114.114.114,目的端口=53）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[44]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=0，服务器IP=202.96.209.6，变化前状态=Init，变化后状态=Down）
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[45]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.209.6,目的端口=53）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[46]:DNS服务器状态变化为DOWN。（服务器IP=202.96.209.6，变化前状态=Init，变化后状态=Down）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[47]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.209.6,目的端口=53）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[48]:DNS服务器状态变化为DOWN。（服务器IP=202.96.209.6，变化前状态=Init，变化后状态=Down）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[49]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.209.6,目的端口=53）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01FW_SLB/4/DOWN(l)[0]:SLB实服务器状态变化为DOWN。（组索引=0，组名称=DNS，服务器索引=2，服务器IP=202.96.199.133，变化前状态=Init，变化后状态=Down）
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[1]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.199.133,目的端口=53）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[2]:DNS服务器状态变化为DOWN。（服务器IP=202.96.199.133，变化前状态=Init，变化后状态=Down）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[3]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.199.133,目的端口=53）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01FW_TPDNS/4/DOWN(l)[4]:DNS服务器状态变化为DOWN。（服务器IP=202.96.199.133，变化前状态=Init，变化后状态=Down）。
+#2020/4/21 21:46:54+08:00 SH-YX501-OFFICE-FW1 %%01HEALTHCHECK/4/DOWN(l)[5]:探测状态变化为DOWN。（协议=dns,目的IP=202.96.199.133,目的端口=53）。
+#2020/4/21 21:46:49+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_STATE(l)[6]:接口 Eth-Trunk23 状态变为 UP。
+#2020/4/21 21:46:49+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[7]:链路协议IP在接口Vlanif23上的状态变为UP。
+#2020/4/21 21:46:49+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_STATE(l)[8]:接口 Vlanif23 状态变为 UP。
+#2020/4/21 21:46:49+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[9]:链路协议IP在接口Vlanif3上的状态变为UP。
+#2020/4/21 21:46:49+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/IF_STATE(l)[10]:接口 Vlanif3 状态变为 UP。
+#2020/4/21 21:46:45+08:00 SH-YX501-OFFICE-FW1 %%01IFNET/4/LINK_STATE(l)[11]:链路协议IP在接口Eth-Trunk63上的状态变为UP。
